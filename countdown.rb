@@ -9,6 +9,6 @@ def countdown(n)
     end
     n -= 1
   end
-  puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
 end
 countdown(5)
