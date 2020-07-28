@@ -9,5 +9,5 @@ def countdown(n)
     end
     n -= 1
   end
-    HAPPY NEW YEAR!
 end
+countdown(5)
