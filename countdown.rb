@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(n)
-  while n >= 0
+  while n > 0
     if n == 1
       puts "#{n} SECOND!"
     else
